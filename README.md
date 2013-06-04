@@ -1,2 +1,4 @@
-java-service-docs
+Java Service Docs
 =================
+
+**Project Status:** Brainstorm
